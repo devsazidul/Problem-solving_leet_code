@@ -1,0 +1,14 @@
+/Volumes/2TB/problem_L/isPalindrome/bin/Debug/net9.0/isPalindrome
+/Volumes/2TB/problem_L/isPalindrome/bin/Debug/net9.0/isPalindrome.deps.json
+/Volumes/2TB/problem_L/isPalindrome/bin/Debug/net9.0/isPalindrome.runtimeconfig.json
+/Volumes/2TB/problem_L/isPalindrome/bin/Debug/net9.0/isPalindrome.dll
+/Volumes/2TB/problem_L/isPalindrome/bin/Debug/net9.0/isPalindrome.pdb
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.AssemblyInfoInputs.cache
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.AssemblyInfo.cs
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.csproj.CoreCompileInputs.cache
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.dll
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/refint/isPalindrome.dll
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.pdb
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/isPalindrome.genruntimeconfig.cache
+/Volumes/2TB/problem_L/isPalindrome/obj/Debug/net9.0/ref/isPalindrome.dll
