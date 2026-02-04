@@ -1,0 +1,7 @@
+// Install go Language
+     -> brew install go  || for mac os
+// terminal commands
+     -> go version
+// run go program
+     -> go run filename.go
+// 
