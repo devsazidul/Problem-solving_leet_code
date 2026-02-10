@@ -1,0 +1,15 @@
+/Volumes/2TB/problem_L/csharp/romanTOinteger/bin/Debug/net9.0/romanTOinteger
+/Volumes/2TB/problem_L/csharp/romanTOinteger/bin/Debug/net9.0/romanTOinteger.deps.json
+/Volumes/2TB/problem_L/csharp/romanTOinteger/bin/Debug/net9.0/romanTOinteger.runtimeconfig.json
+/Volumes/2TB/problem_L/csharp/romanTOinteger/bin/Debug/net9.0/romanTOinteger.dll
+/Volumes/2TB/problem_L/csharp/romanTOinteger/bin/Debug/net9.0/romanTOinteger.pdb
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.AssemblyInfoInputs.cache
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.AssemblyInfo.cs
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.csproj.CoreCompileInputs.cache
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.sourcelink.json
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.dll
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/refint/romanTOinteger.dll
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.pdb
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/romanTOinteger.genruntimeconfig.cache
+/Volumes/2TB/problem_L/csharp/romanTOinteger/obj/Debug/net9.0/ref/romanTOinteger.dll

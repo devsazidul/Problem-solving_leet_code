@@ -1,0 +1,3 @@
+// c# is compiled language so its convart to : dotnet new console -n filename
+// then : cd filename
+// then : dotnet run
