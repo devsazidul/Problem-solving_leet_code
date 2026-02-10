@@ -1,0 +1,3 @@
+compaile language convart to machine language : gcc filename.c -0 filename
+
+run the file : ./filename
